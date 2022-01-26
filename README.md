@@ -4,8 +4,7 @@ This is a Simple Restful API about Blogs created using **NodeJS**.
 
 ## Demo
 
-<#>
-Comming Soon
+<http://api-dev.fikrifirmanf.com/api/v1/posts>
 
 ## Installation
 
