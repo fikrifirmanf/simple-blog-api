@@ -23,6 +23,20 @@ npm install
 npm run dev
 ```
 
+### Docker Installation
+
+Here are the steps:
+
+- Install Docker first on Windows/Linux
+- After docker is installed, then install Docker Compose
+- Then just run the command
+
+```
+docker compose up
+```
+
+With Docker, you can access on <http://localhost:3001>.
+
 ## TECH/LIBRARY
 
 - NodeJS
