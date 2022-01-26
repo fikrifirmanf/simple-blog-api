@@ -41,4 +41,4 @@ npm run dev
 | `/api/v1/posts` | GET    | -                             | `/:id` |
 | `/api/v1/posts` | POST   | `{"title": "","content": ""}` | -      |
 | `/api/v1/posts` | PUT    | `{"title": "","content": ""}` | `/:id` |
-| `/api/v1/posts` | DELETE | -                             | `:/id` |
+| `/api/v1/posts` | DELETE | -                             | `/:id` |
